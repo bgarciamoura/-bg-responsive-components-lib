@@ -1,0 +1,24 @@
+{
+  "name": "@bg/responsive-components-lib",
+  "version": "0.0.1",
+  "description": "Responsive components library for React applications using styled-components",
+  "scripts": {},
+  "keywords": [
+    "react",
+    "styled-components",
+    "responsive",
+    "components",
+    "library"
+  ],
+  "author": "Bruno Garcia Moura <itsme@bgarciamoura.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "styled-components": "^6.1.13"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.11",
+    "typescript": "^5.6.3"
+  }
+}
